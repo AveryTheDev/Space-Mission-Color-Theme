@@ -1,0 +1,22 @@
+{
+    "name": "space-mission",
+    "displayName": "Space Mission",
+    "description": "Color theme based off of my favorite theme and highlighter in Atom",
+    "version": "0.0.1",
+    "publisher": "abrown945",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Mission",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Space Mission-color-theme.json"
+            }
+        ]
+    }
+}
