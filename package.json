@@ -18,5 +18,10 @@
                 "path": "./themes/Space Mission-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abrown945/Space-Mission-Color-Theme.git"
     }
+
 }
